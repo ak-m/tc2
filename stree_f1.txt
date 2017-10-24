@@ -1,2 +1,2 @@
 new file added to see how stree shows this file`
-Adding new line to simulate commit - local ak-m
+Adding new line to simulate commit - local and remote ak-m
