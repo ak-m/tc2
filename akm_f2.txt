@@ -1,0 +1,2 @@
+adding this file in local branch of  of remote r_branch1
+local(r_branch1) ----- remote(r_branch1)
